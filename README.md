@@ -55,7 +55,7 @@ ___
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
-![Markdown Logo](http://localhost/kibria01/wp-content/themes/kibria/assets/img/kibria.png)
+![Markdown Logo](http://skillice.com/wp-content/themes/kibria/assets/img/kibria.png)
 
 <!-- Github Markdown -->
 
