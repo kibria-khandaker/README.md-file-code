@@ -32,9 +32,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://skillice.com/)
+[Skill ice](http://skillice.com/)
 
-[Traversy Media](http://skillice.com/ "Skill ice")
+[Skill ice](http://skillice.com/ "Skill ice")
 
 <!-- UL -->
 * Item 1
@@ -55,7 +55,7 @@ ___
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
-![Markdown Logo](http://skillice.com/wp-content/themes/kibria/assets/img/kibria.png)
+![skillice Logo](http://skillice.com/wp-content/themes/kibria/assets/img/kibria.png)
 
 <!-- Github Markdown -->
 
