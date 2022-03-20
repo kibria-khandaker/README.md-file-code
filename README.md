@@ -1,6 +1,6 @@
 <!-- Headings -->
 Vs Code Live Check for:
-Opren README.md File
+Opren README.md File ->
 Command Palette.. -> markdown: open preview
 
 https://www.markdownguide.org/cheat-sheet/
